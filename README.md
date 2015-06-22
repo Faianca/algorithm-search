@@ -1,2 +1,5 @@
 # algorithm-search
-Php algorithms
+Php algorithms implementations
+
+- Binary Tree Search
+- Interpolation Search
